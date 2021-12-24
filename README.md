@@ -13,4 +13,4 @@ In this case, fluctuations in the population number may occur, imposing the need
 
 For calling the program run ``` python simulation.py ```
 
-![image](Screenshot 2021-12-24 141731.png)
+![image](https://github.com/ManuLado/Conflict_Dynamics/blob/8040b55033754a145e77218a2c7210f783b7e7e0/Screenshot%202021-12-24%20141731.png)
