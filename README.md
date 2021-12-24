@@ -13,3 +13,4 @@ In this case, fluctuations in the population number may occur, imposing the need
 
 For calling the program run ``` python simulation.py ```
 
+![image](Screenshot 2021-12-24 141731.png)
